@@ -6,5 +6,7 @@ Date:22-Jan-2025
 assignment 1
 */
 public class Hello world! { //specifies the object class as public
-    public static void (main string[]args) }//declares the main function and the array as the datatype
-system.out.print in ("Hello world!")//prints out Hello world! aND ends the program 
+    public static void (main string[]args) {//declares the main function and the array as the datatype
+system.out.println ("Hello world!")//prints out Hello world! and ends the program 
+}
+}
